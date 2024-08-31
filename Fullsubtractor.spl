@@ -1,0 +1,11 @@
+[Inputs]
+A
+B
+C
+[Outputs]
+Diff
+Borrow
+[BiDir]
+[ATTRIBUTES]
+VeriModel Fullsubtractor
+

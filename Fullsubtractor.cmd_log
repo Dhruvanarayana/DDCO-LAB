@@ -1,0 +1,2 @@
+vhdtdtfi -lib work D:/4VP23AI017/experiment4/Fullsubtractor.v -lang verilog -prj experiment4 -o Fullsubtractor.spl -module Fullsubtractor -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3 Fullsubtractor.spl D:/4VP23AI017/experiment4/Fullsubtractor.sym 
