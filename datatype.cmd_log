@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/4VP23AI017/Exp3/datatype.xst" -ofn "D:/4VP23AI017/Exp3/datatype.syr" 
